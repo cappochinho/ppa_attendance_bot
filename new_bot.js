@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 const { promisify } = require('util');
 
-const apiToken = "6058368204:AAH1U54j2vvEC9V6jkCXII6HQQ6i1Ej5_FA";
+const apiToken = "INSERT YOUR API TOKEN";
 const bot = new TelegramBot(apiToken, { polling: true });
 
 bot.on('message', async (msg) => {
