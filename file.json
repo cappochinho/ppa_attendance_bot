@@ -1,0 +1,3870 @@
+[
+	{
+		"id": 13676,
+		"name": "Kojo Messe Adodo",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 138,
+		"name": "David Dzinyefa Doh",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342740,
+				"employee_id": 138,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:35:59.000Z"
+			},
+			{
+				"id": 342946,
+				"employee_id": 138,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:21:38.000Z"
+			}
+		]
+	},
+	{
+		"id": 228,
+		"name": "Deborah Oforiwaa Addo",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8369,
+		"name": "Aziz Adjei",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342846,
+				"employee_id": 8369,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:49:47.000Z"
+			},
+			{
+				"id": 342863,
+				"employee_id": 8369,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:05:13.000Z"
+			},
+			{
+				"id": 342867,
+				"employee_id": 8369,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:09:01.000Z"
+			},
+			{
+				"id": 342933,
+				"employee_id": 8369,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:13:05.000Z"
+			},
+			{
+				"id": 342988,
+				"employee_id": 8369,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:07:30.000Z"
+			}
+		]
+	},
+	{
+		"id": 15676,
+		"name": "Vanessa Ofosu Dankyi",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342809,
+				"employee_id": 15676,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:33:25.000Z"
+			},
+			{
+				"id": 342810,
+				"employee_id": 15676,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:33:34.000Z"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Ekua Adams",
+		"zone_id": 4,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 174,
+		"name": "Gaddiel Anderson",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342851,
+				"employee_id": 174,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:56:02.000Z"
+			},
+			{
+				"id": 342884,
+				"employee_id": 174,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:18:47.000Z"
+			}
+		]
+	},
+	{
+		"id": 5201,
+		"name": "Simon Kwadwo Ntow",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 209,
+		"name": "Dereck Mensah",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342769,
+				"employee_id": 209,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:08:36.000Z"
+			}
+		]
+	},
+	{
+		"id": 182,
+		"name": "Hubat Daudi",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342842,
+				"employee_id": 182,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:46:58.000Z"
+			},
+			{
+				"id": 342843,
+				"employee_id": 182,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:47:06.000Z"
+			}
+		]
+	},
+	{
+		"id": 11192,
+		"name": "Kingsley Edem Bani",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5155,
+		"name": "Joana Enyonam Yevugah",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342742,
+				"employee_id": 5155,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T07:37:53.000Z"
+			}
+		]
+	},
+	{
+		"id": 10735,
+		"name": "Enoch Kobla Torkpo",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342995,
+				"employee_id": 10735,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:11:39.000Z"
+			},
+			{
+				"id": 342996,
+				"employee_id": 10735,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:12:13.000Z"
+			}
+		]
+	},
+	{
+		"id": 14458,
+		"name": "Anita Osei-Wusu",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342926,
+				"employee_id": 14458,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:08:33.000Z"
+			}
+		]
+	},
+	{
+		"id": 177,
+		"name": "Benjamin Kwesi Sekyi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 152,
+		"name": "Sarah Dimah Bagbara",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342879,
+				"employee_id": 152,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:14:58.000Z"
+			},
+			{
+				"id": 343054,
+				"employee_id": 152,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:17:02.000Z"
+			}
+		]
+	},
+	{
+		"id": 162,
+		"name": "Augustine Owusu Antwi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14530,
+		"name": "Robert Emmanuel Tetteh-Narh",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 112,
+		"name": "Hazakat Ahmed",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342765,
+				"employee_id": 112,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:04:10.000Z"
+			},
+			{
+				"id": 342766,
+				"employee_id": 112,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:04:19.000Z"
+			}
+		]
+	},
+	{
+		"id": 9563,
+		"name": "Franklyn Seynam Midodzi",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342797,
+				"employee_id": 9563,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:22:12.000Z"
+			},
+			{
+				"id": 342942,
+				"employee_id": 9563,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:19:29.000Z"
+			},
+			{
+				"id": 342945,
+				"employee_id": 9563,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:20:50.000Z"
+			},
+			{
+				"id": 342947,
+				"employee_id": 9563,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:22:39.000Z"
+			},
+			{
+				"id": 342987,
+				"employee_id": 9563,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:06:53.000Z"
+			},
+			{
+				"id": 342990,
+				"employee_id": 9563,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:10:10.000Z"
+			},
+			{
+				"id": 343016,
+				"employee_id": 9563,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:35:55.000Z"
+			},
+			{
+				"id": 343021,
+				"employee_id": 9563,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:40:30.000Z"
+			}
+		]
+	},
+	{
+		"id": 11191,
+		"name": "Isaac Appiah",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342772,
+				"employee_id": 11191,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:09:53.000Z"
+			},
+			{
+				"id": 342773,
+				"employee_id": 11191,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:10:00.000Z"
+			}
+		]
+	},
+	{
+		"id": 208,
+		"name": "Benjamin Assan",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342767,
+				"employee_id": 208,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:07:18.000Z"
+			},
+			{
+				"id": 342967,
+				"employee_id": 208,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:42:25.000Z"
+			}
+		]
+	},
+	{
+		"id": 175,
+		"name": "Hayford Davies Dorku",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342733,
+				"employee_id": 175,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:25:55.000Z"
+			}
+		]
+	},
+	{
+		"id": 140,
+		"name": "Enoch Kwashie Gedo",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342804,
+				"employee_id": 140,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:31:52.000Z"
+			},
+			{
+				"id": 342805,
+				"employee_id": 140,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:32:05.000Z"
+			},
+			{
+				"id": 342943,
+				"employee_id": 140,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:19:55.000Z"
+			}
+		]
+	},
+	{
+		"id": 226,
+		"name": "Augustina Welbeck",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 164,
+		"name": "Enoch Ashiagbor",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342738,
+				"employee_id": 164,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:35:11.000Z"
+			}
+		]
+	},
+	{
+		"id": 12132,
+		"name": "Dorcas Bakutomah",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8749,
+		"name": "Gabriel Okyere",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 215,
+		"name": "Geoffrey Kabutey Dorgbey",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 343007,
+				"employee_id": 215,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:26:26.000Z"
+			},
+			{
+				"id": 343048,
+				"employee_id": 215,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:07:34.000Z"
+			},
+			{
+				"id": 343049,
+				"employee_id": 215,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:08:43.000Z"
+			}
+		]
+	},
+	{
+		"id": 8758,
+		"name": "Emmanuel M Kusorgbor",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342865,
+				"employee_id": 8758,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:07:00.000Z"
+			},
+			{
+				"id": 343001,
+				"employee_id": 8758,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:16:47.000Z"
+			}
+		]
+	},
+	{
+		"id": 137,
+		"name": "Deborah Amoako",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8493,
+		"name": "Joseph Obimpeh",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8759,
+		"name": "Esther Sakyi-Djan",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342800,
+				"employee_id": 8759,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:28:49.000Z"
+			},
+			{
+				"id": 342802,
+				"employee_id": 8759,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:31:25.000Z"
+			},
+			{
+				"id": 342953,
+				"employee_id": 8759,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:30:31.000Z"
+			},
+			{
+				"id": 342958,
+				"employee_id": 8759,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:30:31.000Z"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Joyland Ankuma",
+		"zone_id": 4,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 185,
+		"name": "Rhoda Mamle Lamptey",
+		"zone_id": 7,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8757,
+		"name": "Solomon Adeborna",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342816,
+				"employee_id": 8757,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:36:15.000Z"
+			},
+			{
+				"id": 342869,
+				"employee_id": 8757,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:09:08.000Z"
+			},
+			{
+				"id": 342997,
+				"employee_id": 8757,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:13:18.000Z"
+			},
+			{
+				"id": 343003,
+				"employee_id": 8757,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:20:14.000Z"
+			}
+		]
+	},
+	{
+		"id": 199,
+		"name": "Fiifi Imbeah",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342732,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:25:27.000Z"
+			},
+			{
+				"id": 342807,
+				"employee_id": 199,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:32:37.000Z"
+			},
+			{
+				"id": 342836,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:44:25.000Z"
+			},
+			{
+				"id": 342855,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:58:49.000Z"
+			},
+			{
+				"id": 342860,
+				"employee_id": 199,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:03:34.000Z"
+			},
+			{
+				"id": 342915,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:50:59.000Z"
+			},
+			{
+				"id": 342922,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:01:26.000Z"
+			},
+			{
+				"id": 342952,
+				"employee_id": 199,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:30:03.000Z"
+			},
+			{
+				"id": 342957,
+				"employee_id": 199,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:30:03.000Z"
+			},
+			{
+				"id": 342977,
+				"employee_id": 199,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:53:53.000Z"
+			}
+		]
+	},
+	{
+		"id": 9625,
+		"name": "Stephen Morrison",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342768,
+				"employee_id": 9625,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:08:07.000Z"
+			},
+			{
+				"id": 342968,
+				"employee_id": 9625,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:42:32.000Z"
+			}
+		]
+	},
+	{
+		"id": 219,
+		"name": "Magdalene Bonney",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342840,
+				"employee_id": 219,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:45:05.000Z"
+			},
+			{
+				"id": 342856,
+				"employee_id": 219,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:00:01.000Z"
+			},
+			{
+				"id": 342857,
+				"employee_id": 219,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:00:07.000Z"
+			},
+			{
+				"id": 342866,
+				"employee_id": 219,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:08:17.000Z"
+			},
+			{
+				"id": 342877,
+				"employee_id": 219,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:13:56.000Z"
+			}
+		]
+	},
+	{
+		"id": 222,
+		"name": "Philip Mawuli Agbanavor",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342728,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:15:25.000Z"
+			},
+			{
+				"id": 342729,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:15:32.000Z"
+			},
+			{
+				"id": 342907,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:42:35.000Z"
+			},
+			{
+				"id": 343009,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:28:35.000Z"
+			},
+			{
+				"id": 343017,
+				"employee_id": 222,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:38:57.000Z"
+			},
+			{
+				"id": 343024,
+				"employee_id": 222,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:43:04.000Z"
+			},
+			{
+				"id": 343025,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:43:55.000Z"
+			},
+			{
+				"id": 343032,
+				"employee_id": 222,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:52:14.000Z"
+			},
+			{
+				"id": 343034,
+				"employee_id": 222,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:53:42.000Z"
+			}
+		]
+	},
+	{
+		"id": 223,
+		"name": "Michael Kwablah",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8413,
+		"name": "Muhammed Muhyedeen",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 9586,
+		"name": "Nunya Torgah",
+		"zone_id": 4,
+		"hub_attendance_logs": [
+			{
+				"id": 342779,
+				"employee_id": 9586,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:15:47.000Z"
+			},
+			{
+				"id": 342780,
+				"employee_id": 9586,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:15:54.000Z"
+			},
+			{
+				"id": 342785,
+				"employee_id": 9586,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:16:23.000Z"
+			},
+			{
+				"id": 342787,
+				"employee_id": 9586,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:17:10.000Z"
+			}
+		]
+	},
+	{
+		"id": 203,
+		"name": "Joshua Kojo Menlah",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342755,
+				"employee_id": 203,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:49:11.000Z"
+			}
+		]
+	},
+	{
+		"id": 12133,
+		"name": "Rita Ninson",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 144,
+		"name": "John Badu Acquah",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342726,
+				"employee_id": 144,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:52:47.000Z"
+			}
+		]
+	},
+	{
+		"id": 5202,
+		"name": "Richard Kobina Afful",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 11195,
+		"name": "Percy Ankisiwai Atuiri",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342794,
+				"employee_id": 11195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:21:54.000Z"
+			},
+			{
+				"id": 342963,
+				"employee_id": 11195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:33:49.000Z"
+			},
+			{
+				"id": 342964,
+				"employee_id": 11195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:38:23.000Z"
+			},
+			{
+				"id": 342981,
+				"employee_id": 11195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:57:27.000Z"
+			}
+		]
+	},
+	{
+		"id": 13635,
+		"name": "Dickson Ntow",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342717,
+				"employee_id": 13635,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T05:37:42.000Z"
+			},
+			{
+				"id": 342718,
+				"employee_id": 13635,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T05:37:49.000Z"
+			}
+		]
+	},
+	{
+		"id": 202,
+		"name": "George Damptey",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342791,
+				"employee_id": 202,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:20:38.000Z"
+			},
+			{
+				"id": 343043,
+				"employee_id": 202,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:01:58.000Z"
+			},
+			{
+				"id": 343066,
+				"employee_id": 202,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:26:57.000Z"
+			}
+		]
+	},
+	{
+		"id": 224,
+		"name": "Isaac Yawson",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342859,
+				"employee_id": 224,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:01:42.000Z"
+			}
+		]
+	},
+	{
+		"id": 191,
+		"name": "Mary Ruthmern",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342845,
+				"employee_id": 191,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:48:29.000Z"
+			}
+		]
+	},
+	{
+		"id": 195,
+		"name": "Isaac Michael Nsiah",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342724,
+				"employee_id": 195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:41:50.000Z"
+			},
+			{
+				"id": 342881,
+				"employee_id": 195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:16:48.000Z"
+			},
+			{
+				"id": 342955,
+				"employee_id": 195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:32:09.000Z"
+			},
+			{
+				"id": 342960,
+				"employee_id": 195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:32:09.000Z"
+			},
+			{
+				"id": 342974,
+				"employee_id": 195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:49:47.000Z"
+			},
+			{
+				"id": 342976,
+				"employee_id": 195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:50:23.000Z"
+			},
+			{
+				"id": 342984,
+				"employee_id": 195,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:03:50.000Z"
+			},
+			{
+				"id": 343002,
+				"employee_id": 195,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:19:25.000Z"
+			},
+			{
+				"id": 343063,
+				"employee_id": 195,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:23:25.000Z"
+			}
+		]
+	},
+	{
+		"id": 14008,
+		"name": "Irene Emefa Gadzanku",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 181,
+		"name": "Michael Emmanuel Addo",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342806,
+				"employee_id": 181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:32:24.000Z"
+			},
+			{
+				"id": 342827,
+				"employee_id": 181,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:40:11.000Z"
+			},
+			{
+				"id": 342854,
+				"employee_id": 181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:57:33.000Z"
+			},
+			{
+				"id": 342885,
+				"employee_id": 181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:20:29.000Z"
+			},
+			{
+				"id": 343011,
+				"employee_id": 181,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:32:21.000Z"
+			},
+			{
+				"id": 343018,
+				"employee_id": 181,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:39:24.000Z"
+			},
+			{
+				"id": 343020,
+				"employee_id": 181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:40:16.000Z"
+			},
+			{
+				"id": 343059,
+				"employee_id": 181,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:20:58.000Z"
+			},
+			{
+				"id": 343064,
+				"employee_id": 181,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:25:26.000Z"
+			}
+		]
+	},
+	{
+		"id": 147,
+		"name": "Kofi Danquah Julius",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342774,
+				"employee_id": 147,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:10:22.000Z"
+			},
+			{
+				"id": 342775,
+				"employee_id": 147,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:10:28.000Z"
+			},
+			{
+				"id": 342776,
+				"employee_id": 147,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:10:41.000Z"
+			}
+		]
+	},
+	{
+		"id": 11673,
+		"name": "Eric  Ofosu-hene",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342743,
+				"employee_id": 11673,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:39:37.000Z"
+			},
+			{
+				"id": 342744,
+				"employee_id": 11673,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:39:43.000Z"
+			},
+			{
+				"id": 342878,
+				"employee_id": 11673,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:14:52.000Z"
+			}
+		]
+	},
+	{
+		"id": 11931,
+		"name": "Henry Buina",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8760,
+		"name": "Opoku Wadie",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342817,
+				"employee_id": 8760,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:36:44.000Z"
+			},
+			{
+				"id": 342818,
+				"employee_id": 8760,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:36:54.000Z"
+			},
+			{
+				"id": 342819,
+				"employee_id": 8760,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:37:02.000Z"
+			}
+		]
+	},
+	{
+		"id": 11171,
+		"name": "James Addo",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342746,
+				"employee_id": 11171,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:08.000Z"
+			},
+			{
+				"id": 342750,
+				"employee_id": 11171,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:32.000Z"
+			}
+		]
+	},
+	{
+		"id": 156,
+		"name": "Winnie Wekete Sinabisi",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 10950,
+		"name": "Richard Odei - Nkansah",
+		"zone_id": 5,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 167,
+		"name": "Benjamin Oduro",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 163,
+		"name": "Joseph Acheampong",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342985,
+				"employee_id": 163,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:05:46.000Z"
+			},
+			{
+				"id": 343050,
+				"employee_id": 163,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:09:49.000Z"
+			}
+		]
+	},
+	{
+		"id": 134,
+		"name": "Bernard Kobina Brainoo",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342834,
+				"employee_id": 134,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:43:48.000Z"
+			},
+			{
+				"id": 342835,
+				"employee_id": 134,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:44:04.000Z"
+			}
+		]
+	},
+	{
+		"id": 8761,
+		"name": "Eunice Quainin",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342792,
+				"employee_id": 8761,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:20:48.000Z"
+			}
+		]
+	},
+	{
+		"id": 168,
+		"name": "Samuel Mensah",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5197,
+		"name": "Leonard Nyaaba Abagna",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5203,
+		"name": "Prinscilla Esenam Mensah",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 171,
+		"name": "Yaw Asa Akyea",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342801,
+				"employee_id": 171,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:29:07.000Z"
+			}
+		]
+	},
+	{
+		"id": 11194,
+		"name": "Aaron Ayindenaba Asugre",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8755,
+		"name": "Djaba E Teye",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8495,
+		"name": "Jeffrey Lutterodt",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 343004,
+				"employee_id": 8495,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:22:46.000Z"
+			}
+		]
+	},
+	{
+		"id": 221,
+		"name": "Richard Ofori - Asabere",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 213,
+		"name": "Daniel Owusu- Sakyi",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342888,
+				"employee_id": 213,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:23:20.000Z"
+			}
+		]
+	},
+	{
+		"id": 218,
+		"name": "Philip Owusu",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342898,
+				"employee_id": 218,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:34:55.000Z"
+			},
+			{
+				"id": 342899,
+				"employee_id": 218,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:35:06.000Z"
+			},
+			{
+				"id": 342900,
+				"employee_id": 218,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:35:15.000Z"
+			},
+			{
+				"id": 342901,
+				"employee_id": 218,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:35:24.000Z"
+			}
+		]
+	},
+	{
+		"id": 14007,
+		"name": "Portia Larbi",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 149,
+		"name": "Sakinatu Abu",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342762,
+				"employee_id": 149,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T07:54:46.000Z"
+			},
+			{
+				"id": 343065,
+				"employee_id": 149,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:26:02.000Z"
+			}
+		]
+	},
+	{
+		"id": 8529,
+		"name": "Marypearl Kyei",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342844,
+				"employee_id": 8529,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:48:04.000Z"
+			}
+		]
+	},
+	{
+		"id": 10734,
+		"name": "Fred Acku - Mensah",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 173,
+		"name": "Francis Adu Aboagye",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 180,
+		"name": "Eric Kwakye Asare",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 142,
+		"name": "Felix Osei Asare",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 143,
+		"name": "Frank Gyamfi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 145,
+		"name": "John Ackwerh",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 12439,
+		"name": "Charles Okpoti",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342858,
+				"employee_id": 12439,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:00:19.000Z"
+			},
+			{
+				"id": 343053,
+				"employee_id": 12439,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:16:06.000Z"
+			}
+		]
+	},
+	{
+		"id": 230,
+		"name": "Dominic Baafi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 133,
+		"name": "Andrews Aikins Owoo",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 135,
+		"name": "Cosmos Obeng Odoom",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8415,
+		"name": "Edwin M Lawson",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 10205,
+		"name": "Stephen  Tormeti",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342825,
+				"employee_id": 10205,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:39:35.000Z"
+			},
+			{
+				"id": 342889,
+				"employee_id": 10205,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:25:01.000Z"
+			},
+			{
+				"id": 342978,
+				"employee_id": 10205,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:55:34.000Z"
+			}
+		]
+	},
+	{
+		"id": 13681,
+		"name": "Biritwum K  Adiyiah",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342861,
+				"employee_id": 13681,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:04:44.000Z"
+			}
+		]
+	},
+	{
+		"id": 13805,
+		"name": "Jesse Blankson-Smith",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 231,
+		"name": "Loveinger Boateng",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5198,
+		"name": "Kennedy Amissah",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15675,
+		"name": "Edward Otoo Agyapong",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5017,
+		"name": "Felicia Andorful",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342727,
+				"employee_id": 5017,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:05:45.000Z"
+			}
+		]
+	},
+	{
+		"id": 10203,
+		"name": "Joseph Kwame Boateng",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342757,
+				"employee_id": 10203,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:50:17.000Z"
+			},
+			{
+				"id": 342758,
+				"employee_id": 10203,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:50:26.000Z"
+			}
+		]
+	},
+	{
+		"id": 5159,
+		"name": "Emmanuel Noamesi",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342871,
+				"employee_id": 5159,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:09:48.000Z"
+			},
+			{
+				"id": 342886,
+				"employee_id": 5159,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:21:48.000Z"
+			},
+			{
+				"id": 342986,
+				"employee_id": 5159,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:06:27.000Z"
+			},
+			{
+				"id": 343052,
+				"employee_id": 5159,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:15:23.000Z"
+			},
+			{
+				"id": 343057,
+				"employee_id": 5159,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:18:54.000Z"
+			}
+		]
+	},
+	{
+		"id": 11612,
+		"name": "Jeffrey Afutu",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342803,
+				"employee_id": 11612,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:31:35.000Z"
+			},
+			{
+				"id": 342890,
+				"employee_id": 11612,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:27:54.000Z"
+			},
+			{
+				"id": 342973,
+				"employee_id": 11612,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:48:12.000Z"
+			},
+			{
+				"id": 343027,
+				"employee_id": 11612,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:45:23.000Z"
+			},
+			{
+				"id": 343038,
+				"employee_id": 11612,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:59:15.000Z"
+			},
+			{
+				"id": 343060,
+				"employee_id": 11612,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:21:19.000Z"
+			}
+		]
+	},
+	{
+		"id": 5199,
+		"name": "Reinhard Delali Amo",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 12345,
+		"name": "Imran Adamu",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 158,
+		"name": "Godwin Mawutor Ahiataku",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342883,
+				"employee_id": 158,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:17:41.000Z"
+			},
+			{
+				"id": 342908,
+				"employee_id": 158,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:44:26.000Z"
+			},
+			{
+				"id": 342927,
+				"employee_id": 158,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:08:49.000Z"
+			},
+			{
+				"id": 342928,
+				"employee_id": 158,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:08:56.000Z"
+			},
+			{
+				"id": 342929,
+				"employee_id": 158,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:09:04.000Z"
+			},
+			{
+				"id": 342934,
+				"employee_id": 158,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:13:33.000Z"
+			},
+			{
+				"id": 342936,
+				"employee_id": 158,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:13:33.000Z"
+			}
+		]
+	},
+	{
+		"id": 13873,
+		"name": "Isaac Abrokwa",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342763,
+				"employee_id": 13873,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:54:52.000Z"
+			}
+		]
+	},
+	{
+		"id": 11190,
+		"name": "Selasi Amedefor",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13802,
+		"name": "Ebenezer Sackitey Nyako",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14004,
+		"name": "Solomon  Yankey",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342838,
+				"employee_id": 14004,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:44:40.000Z"
+			}
+		]
+	},
+	{
+		"id": 13533,
+		"name": "Newton C Quaye",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342864,
+				"employee_id": 13533,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:05:36.000Z"
+			},
+			{
+				"id": 342932,
+				"employee_id": 13533,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:12:27.000Z"
+			}
+		]
+	},
+	{
+		"id": 183,
+		"name": "Ben Steele-Dadzie",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13691,
+		"name": "Suleiman Yakubu",
+		"zone_id": 7,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": -5,
+		"name": "Kweku Asmah",
+		"zone_id": 4,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13800,
+		"name": "Mohammed Ali",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342709,
+				"employee_id": 13800,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T03:11:46.000Z"
+			},
+			{
+				"id": 342710,
+				"employee_id": 13800,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T03:12:57.000Z"
+			},
+			{
+				"id": 342711,
+				"employee_id": 13800,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T03:38:36.000Z"
+			},
+			{
+				"id": 342712,
+				"employee_id": 13800,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T03:52:33.000Z"
+			},
+			{
+				"id": 342713,
+				"employee_id": 13800,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T04:12:16.000Z"
+			},
+			{
+				"id": 342714,
+				"employee_id": 13800,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T04:16:46.000Z"
+			},
+			{
+				"id": 342715,
+				"employee_id": 13800,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T04:36:37.000Z"
+			},
+			{
+				"id": 342716,
+				"employee_id": 13800,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T04:41:40.000Z"
+			},
+			{
+				"id": 342723,
+				"employee_id": 13800,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:25:20.000Z"
+			},
+			{
+				"id": 342735,
+				"employee_id": 13800,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:31:19.000Z"
+			}
+		]
+	},
+	{
+		"id": 5200,
+		"name": "Cynthia Dzoko",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8421,
+		"name": "Rita Mussey",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342753,
+				"employee_id": 8421,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:48:40.000Z"
+			},
+			{
+				"id": 342754,
+				"employee_id": 8421,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:48:53.000Z"
+			},
+			{
+				"id": 343055,
+				"employee_id": 8421,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:17:19.000Z"
+			},
+			{
+				"id": 343062,
+				"employee_id": 8421,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:22:24.000Z"
+			}
+		]
+	},
+	{
+		"id": 198,
+		"name": "Vitus Pwamang",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342745,
+				"employee_id": 198,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:42:53.000Z"
+			},
+			{
+				"id": 342853,
+				"employee_id": 198,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:57:22.000Z"
+			}
+		]
+	},
+	{
+		"id": 14160,
+		"name": "Afia Owusu-Achempem",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 120,
+		"name": "Robert A Maison Jr.",
+		"zone_id": 4,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 154,
+		"name": "Stephen Larbi",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342875,
+				"employee_id": 154,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:11:51.000Z"
+			},
+			{
+				"id": 342940,
+				"employee_id": 154,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:16:53.000Z"
+			},
+			{
+				"id": 342980,
+				"employee_id": 154,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:57:11.000Z"
+			}
+		]
+	},
+	{
+		"id": 15210,
+		"name": "Newton Tagoe",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 16477,
+		"name": "Arimiyawo Iddrisu",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13281,
+		"name": "Alberta Sefa-Boampong",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 12787,
+		"name": "Adongo E Akantame",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342850,
+				"employee_id": 12787,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:54:50.000Z"
+			}
+		]
+	},
+	{
+		"id": 166,
+		"name": "Michael Ofori",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 211,
+		"name": "Sandra Adzo Yayra Adjetey",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13801,
+		"name": "Ahmed Imoro",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5146,
+		"name": "Daniel Mishio",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5143,
+		"name": "Patrick Kwabena Tettey",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342751,
+				"employee_id": 5143,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:52.000Z"
+			},
+			{
+				"id": 342752,
+				"employee_id": 5143,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:59.000Z"
+			}
+		]
+	},
+	{
+		"id": 14859,
+		"name": "Nathaniel Mensah Adoko",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342789,
+				"employee_id": 14859,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:18:43.000Z"
+			}
+		]
+	},
+	{
+		"id": 16201,
+		"name": "Asantewaa Owusu Asante",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342937,
+				"employee_id": 16201,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:14:07.000Z"
+			}
+		]
+	},
+	{
+		"id": 14162,
+		"name": "Eunice Asuming-Brempong Eshun",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342999,
+				"employee_id": 14162,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:15:32.000Z"
+			}
+		]
+	},
+	{
+		"id": 15199,
+		"name": "Enoch Peprah Baffoe",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14056,
+		"name": "Racheal Fremah Appiah",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342784,
+				"employee_id": 14056,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:16:27.000Z"
+			}
+		]
+	},
+	{
+		"id": 5205,
+		"name": "Kafui Kwashie-Loh",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15237,
+		"name": "Kenneth Kwaku Nyanteh",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342761,
+				"employee_id": 15237,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:54:39.000Z"
+			}
+		]
+	},
+	{
+		"id": 15250,
+		"name": "Emmanuel Banahene Okrah",
+		"zone_id": 5,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14159,
+		"name": "Wilhelmina Nana Aba Owusu",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15236,
+		"name": "Love Adisenu Mawumenyo",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342823,
+				"employee_id": 15236,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:38:33.000Z"
+			},
+			{
+				"id": 342950,
+				"employee_id": 15236,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:27:04.000Z"
+			}
+		]
+	},
+	{
+		"id": 5186,
+		"name": "Nathaniel Papa Kweku Oppong",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342793,
+				"employee_id": 5186,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:21:24.000Z"
+			},
+			{
+				"id": 343030,
+				"employee_id": 5186,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:49:47.000Z"
+			},
+			{
+				"id": 343041,
+				"employee_id": 5186,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:01:22.000Z"
+			},
+			{
+				"id": 343047,
+				"employee_id": 5186,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:06:40.000Z"
+			},
+			{
+				"id": 343051,
+				"employee_id": 5186,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:11:06.000Z"
+			}
+		]
+	},
+	{
+		"id": 15738,
+		"name": "Kofi Adu-Gyamfi ",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15326,
+		"name": "Elizabeth Ayeley Okine",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5176,
+		"name": "Obed Gapkada",
+		"zone_id": 7,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5177,
+		"name": "Anthony Ampong Cobbinah",
+		"zone_id": 7,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13803,
+		"name": "Ekow Anamuah deGraft-Johnson",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 8414,
+		"name": "Seth A Abban",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342829,
+				"employee_id": 8414,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:40:59.000Z"
+			},
+			{
+				"id": 342830,
+				"employee_id": 8414,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:41:07.000Z"
+			},
+			{
+				"id": 342837,
+				"employee_id": 8414,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:44:32.000Z"
+			},
+			{
+				"id": 342971,
+				"employee_id": 8414,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:46:39.000Z"
+			},
+			{
+				"id": 342972,
+				"employee_id": 8414,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:47:35.000Z"
+			}
+		]
+	},
+	{
+		"id": 5162,
+		"name": "Frank Kojo Entsie",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15262,
+		"name": "Gladys Sandra Azure",
+		"zone_id": 5,
+		"hub_attendance_logs": [
+			{
+				"id": 342902,
+				"employee_id": 15262,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:39:55.000Z"
+			},
+			{
+				"id": 342903,
+				"employee_id": 15262,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:40:09.000Z"
+			},
+			{
+				"id": 342904,
+				"employee_id": 15262,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:40:15.000Z"
+			}
+		]
+	},
+	{
+		"id": 5147,
+		"name": "Naa Dei Djani",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342862,
+				"employee_id": 5147,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:05:09.000Z"
+			},
+			{
+				"id": 343035,
+				"employee_id": 5147,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:58:07.000Z"
+			},
+			{
+				"id": 343040,
+				"employee_id": 5147,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:01:00.000Z"
+			},
+			{
+				"id": 343044,
+				"employee_id": 5147,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:02:36.000Z"
+			}
+		]
+	},
+	{
+		"id": 15223,
+		"name": "Julius  Osabutey",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14970,
+		"name": "Wendy  Baaba Asante",
+		"zone_id": 4,
+		"hub_attendance_logs": [
+			{
+				"id": 342795,
+				"employee_id": 14970,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:22:02.000Z"
+			},
+			{
+				"id": 342796,
+				"employee_id": 14970,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:22:09.000Z"
+			},
+			{
+				"id": 342911,
+				"employee_id": 14970,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:45:54.000Z"
+			},
+			{
+				"id": 342916,
+				"employee_id": 14970,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:51:05.000Z"
+			},
+			{
+				"id": 342917,
+				"employee_id": 14970,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:51:46.000Z"
+			},
+			{
+				"id": 342919,
+				"employee_id": 14970,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:54:21.000Z"
+			},
+			{
+				"id": 342921,
+				"employee_id": 14970,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:59:46.000Z"
+			},
+			{
+				"id": 343037,
+				"employee_id": 14970,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:58:34.000Z"
+			}
+		]
+	},
+	{
+		"id": 5110,
+		"name": "Eugene Kojo Sappor",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 9648,
+		"name": "Sitsofe Kofi Fefeti",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342912,
+				"employee_id": 9648,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:46:30.000Z"
+			},
+			{
+				"id": 342930,
+				"employee_id": 9648,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:09:14.000Z"
+			},
+			{
+				"id": 342931,
+				"employee_id": 9648,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:12:22.000Z"
+			}
+		]
+	},
+	{
+		"id": 13664,
+		"name": "Perry Agyarko Odoi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5184,
+		"name": "Kwasi Ankamah Coffie",
+		"zone_id": null,
+		"hub_attendance_logs": [
+			{
+				"id": 342868,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:09:05.000Z"
+			},
+			{
+				"id": 342892,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:30:58.000Z"
+			},
+			{
+				"id": 342893,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:31:40.000Z"
+			},
+			{
+				"id": 342910,
+				"employee_id": 5184,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:45:44.000Z"
+			},
+			{
+				"id": 342913,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T09:47:22.000Z"
+			},
+			{
+				"id": 342935,
+				"employee_id": 5184,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T10:13:30.000Z"
+			},
+			{
+				"id": 342938,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:15:07.000Z"
+			},
+			{
+				"id": 342941,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:17:04.000Z"
+			},
+			{
+				"id": 342944,
+				"employee_id": 5184,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:20:35.000Z"
+			},
+			{
+				"id": 342948,
+				"employee_id": 5184,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T10:23:23.000Z"
+			},
+			{
+				"id": 343008,
+				"employee_id": 5184,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:26:52.000Z"
+			}
+		]
+	},
+	{
+		"id": 14860,
+		"name": "Francis Opoku Junior",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342786,
+				"employee_id": 14860,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:16:31.000Z"
+			},
+			{
+				"id": 342788,
+				"employee_id": 14860,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:17:27.000Z"
+			},
+			{
+				"id": 342880,
+				"employee_id": 14860,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:15:03.000Z"
+			}
+		]
+	},
+	{
+		"id": 15200,
+		"name": "Quniton Smith-Assan",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 14157,
+		"name": "Suzzy Believe Zokah",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 11022,
+		"name": "Ida Padikuor Na - Tei",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 343042,
+				"employee_id": 11022,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:01:43.000Z"
+			}
+		]
+	},
+	{
+		"id": 13798,
+		"name": "Jephthah Afedzi Baidoo",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5171,
+		"name": "Tammy Nutsukpui",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342820,
+				"employee_id": 5171,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:37:11.000Z"
+			}
+		]
+	},
+	{
+		"id": 151,
+		"name": "Samuel Antwi",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342872,
+				"employee_id": 151,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:11:01.000Z"
+			},
+			{
+				"id": 342909,
+				"employee_id": 151,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:44:36.000Z"
+			},
+			{
+				"id": 342956,
+				"employee_id": 151,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:29:24.000Z"
+			},
+			{
+				"id": 342965,
+				"employee_id": 151,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:40:50.000Z"
+			},
+			{
+				"id": 342966,
+				"employee_id": 151,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:40:59.000Z"
+			}
+		]
+	},
+	{
+		"id": 5163,
+		"name": "Peter Dadson",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342730,
+				"employee_id": 5163,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:18:16.000Z"
+			}
+		]
+	},
+	{
+		"id": 5178,
+		"name": "Edwin Daklah",
+		"zone_id": 7,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5167,
+		"name": "Harriet A. Akyemah Akekyi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5145,
+		"name": "Michael Ayanyemi",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5169,
+		"name": "Jesse Blankson-Smith",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13872,
+		"name": "Daniella  Osei - Afriyie",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342747,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:15.000Z"
+			},
+			{
+				"id": 342748,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:21.000Z"
+			},
+			{
+				"id": 342749,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:47:25.000Z"
+			},
+			{
+				"id": 342756,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:50:04.000Z"
+			},
+			{
+				"id": 342852,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:56:35.000Z"
+			},
+			{
+				"id": 342882,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:17:03.000Z"
+			},
+			{
+				"id": 342939,
+				"employee_id": 13872,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:16:10.000Z"
+			}
+		]
+	},
+	{
+		"id": 15235,
+		"name": "Cletus Asiwoko Dzorgbenyuie",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5148,
+		"name": "Arthur Nketsia",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342725,
+				"employee_id": 5148,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:47:08.000Z"
+			},
+			{
+				"id": 342770,
+				"employee_id": 5148,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:09:12.000Z"
+			},
+			{
+				"id": 342771,
+				"employee_id": 5148,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:09:43.000Z"
+			},
+			{
+				"id": 343033,
+				"employee_id": 5148,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:53:18.000Z"
+			},
+			{
+				"id": 343046,
+				"employee_id": 5148,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:06:34.000Z"
+			}
+		]
+	},
+	{
+		"id": 200,
+		"name": "Felix Odarlai Mills",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342764,
+				"employee_id": 200,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:54:59.000Z"
+			}
+		]
+	},
+	{
+		"id": 15208,
+		"name": "Selorm Kwami Dzakpasu",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342822,
+				"employee_id": 15208,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:38:20.000Z"
+			},
+			{
+				"id": 342994,
+				"employee_id": 15208,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:11:30.000Z"
+			},
+			{
+				"id": 342998,
+				"employee_id": 15208,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:15:10.000Z"
+			}
+		]
+	},
+	{
+		"id": 15086,
+		"name": "Prince Nzivie Avaala",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5183,
+		"name": "Kelvyn Yaw Krause",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 155,
+		"name": "Victoria Allotey",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342847,
+				"employee_id": 155,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:52:09.000Z"
+			},
+			{
+				"id": 342848,
+				"employee_id": 155,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:52:38.000Z"
+			}
+		]
+	},
+	{
+		"id": 5185,
+		"name": "Mirabel Naa Morkor Mensah",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342833,
+				"employee_id": 5185,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:43:02.000Z"
+			}
+		]
+	},
+	{
+		"id": 204,
+		"name": "Kofi Asante Oduro- Boatey",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342813,
+				"employee_id": 204,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:34:42.000Z"
+			},
+			{
+				"id": 342814,
+				"employee_id": 204,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:34:48.000Z"
+			},
+			{
+				"id": 342815,
+				"employee_id": 204,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:34:55.000Z"
+			}
+		]
+	},
+	{
+		"id": 16813,
+		"name": "Sandra Eddie",
+		"zone_id": 6,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 10736,
+		"name": "Kwame  Donkor",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 13699,
+		"name": "Augustine Attakorah",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342731,
+				"employee_id": 13699,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:22:44.000Z"
+			},
+			{
+				"id": 342739,
+				"employee_id": 13699,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:35:42.000Z"
+			}
+		]
+	},
+	{
+		"id": 176,
+		"name": "Daniel Atsu Agbemava",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 343012,
+				"employee_id": 176,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:33:16.000Z"
+			},
+			{
+				"id": 343013,
+				"employee_id": 176,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:33:21.000Z"
+			},
+			{
+				"id": 343022,
+				"employee_id": 176,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:41:11.000Z"
+			},
+			{
+				"id": 343029,
+				"employee_id": 176,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:49:15.000Z"
+			},
+			{
+				"id": 343058,
+				"employee_id": 176,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:19:49.000Z"
+			}
+		]
+	},
+	{
+		"id": 15739,
+		"name": "Prince Nortey Mensah",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342849,
+				"employee_id": 15739,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:53:12.000Z"
+			},
+			{
+				"id": 342983,
+				"employee_id": 15739,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:00:04.000Z"
+			},
+			{
+				"id": 343005,
+				"employee_id": 15739,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:24:12.000Z"
+			},
+			{
+				"id": 343019,
+				"employee_id": 15739,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:40:07.000Z"
+			}
+		]
+	},
+	{
+		"id": 9772,
+		"name": "Joseph O Sai",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342841,
+				"employee_id": 9772,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:46:49.000Z"
+			},
+			{
+				"id": 342891,
+				"employee_id": 9772,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:29:51.000Z"
+			},
+			{
+				"id": 342894,
+				"employee_id": 9772,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:32:30.000Z"
+			},
+			{
+				"id": 342895,
+				"employee_id": 9772,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:32:32.000Z"
+			},
+			{
+				"id": 342970,
+				"employee_id": 9772,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:44:45.000Z"
+			},
+			{
+				"id": 342975,
+				"employee_id": 9772,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:50:05.000Z"
+			}
+		]
+	},
+	{
+		"id": 5175,
+		"name": "Samuel Tachie",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5190,
+		"name": "Linus Benyah Andoh",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5180,
+		"name": "Edward Junior Agyemang Prempeh",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342821,
+				"employee_id": 5180,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:38:11.000Z"
+			}
+		]
+	},
+	{
+		"id": 13799,
+		"name": "Daniel Goddard Brookman",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342759,
+				"employee_id": 13799,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:52:15.000Z"
+			},
+			{
+				"id": 342760,
+				"employee_id": 13799,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:52:22.000Z"
+			},
+			{
+				"id": 342991,
+				"employee_id": 13799,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:10:23.000Z"
+			},
+			{
+				"id": 342993,
+				"employee_id": 13799,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:11:12.000Z"
+			}
+		]
+	},
+	{
+		"id": 5188,
+		"name": "Valdo Ato Abruquah",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342736,
+				"employee_id": 5188,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:31:54.000Z"
+			}
+		]
+	},
+	{
+		"id": 16837,
+		"name": "Jacqueline Tiwaah Baidoo",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15925,
+		"name": "Prince Abokye",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342782,
+				"employee_id": 15925,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:16:09.000Z"
+			},
+			{
+				"id": 342783,
+				"employee_id": 15925,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:16:21.000Z"
+			}
+		]
+	},
+	{
+		"id": 5204,
+		"name": "Linda Nueki Narh",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5193,
+		"name": "Emmanuella Appiah",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342790,
+				"employee_id": 5193,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:19:40.000Z"
+			}
+		]
+	},
+	{
+		"id": 5194,
+		"name": "Noah Agyemang",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342781,
+				"employee_id": 5194,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:15:56.000Z"
+			},
+			{
+				"id": 343010,
+				"employee_id": 5194,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:30:28.000Z"
+			},
+			{
+				"id": 343014,
+				"employee_id": 5194,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:34:39.000Z"
+			},
+			{
+				"id": 343015,
+				"employee_id": 5194,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:35:27.000Z"
+			},
+			{
+				"id": 343031,
+				"employee_id": 5194,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:49:55.000Z"
+			},
+			{
+				"id": 343036,
+				"employee_id": 5194,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:58:27.000Z"
+			},
+			{
+				"id": 343039,
+				"employee_id": 5194,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:00:59.000Z"
+			}
+		]
+	},
+	{
+		"id": 5181,
+		"name": "Francis Agbeko",
+		"zone_id": 7,
+		"hub_attendance_logs": [
+			{
+				"id": 342824,
+				"employee_id": 5181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:39:25.000Z"
+			},
+			{
+				"id": 342870,
+				"employee_id": 5181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:09:17.000Z"
+			},
+			{
+				"id": 342873,
+				"employee_id": 5181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:11:12.000Z"
+			},
+			{
+				"id": 342874,
+				"employee_id": 5181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:11:15.000Z"
+			},
+			{
+				"id": 342951,
+				"employee_id": 5181,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:27:13.000Z"
+			},
+			{
+				"id": 342961,
+				"employee_id": 5181,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:32:32.000Z"
+			}
+		]
+	},
+	{
+		"id": 5182,
+		"name": "Helmeton Agana Ayambiliko",
+		"zone_id": 9,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5130,
+		"name": "Priscilla Serwaa Owusu",
+		"zone_id": 1,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 11075,
+		"name": "Kennedy Yeboah",
+		"zone_id": 9,
+		"hub_attendance_logs": [
+			{
+				"id": 342737,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:32:06.000Z"
+			},
+			{
+				"id": 342778,
+				"employee_id": 11075,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:12:57.000Z"
+			},
+			{
+				"id": 342799,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:26:15.000Z"
+			},
+			{
+				"id": 342812,
+				"employee_id": 11075,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:33:51.000Z"
+			},
+			{
+				"id": 342832,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T08:42:45.000Z"
+			},
+			{
+				"id": 343006,
+				"employee_id": 11075,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:26:23.000Z"
+			},
+			{
+				"id": 343023,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:42:04.000Z"
+			},
+			{
+				"id": 343026,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T11:44:47.000Z"
+			},
+			{
+				"id": 343056,
+				"employee_id": 11075,
+				"type": "OUT",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:18:16.000Z"
+			},
+			{
+				"id": 343061,
+				"employee_id": 11075,
+				"type": "IN",
+				"location": "ECSD",
+				"timestamp": "2023-03-24T12:22:22.000Z"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Fiifi Asante-Antwi",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342808,
+				"employee_id": 11,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:33:12.000Z"
+			},
+			{
+				"id": 342811,
+				"employee_id": 11,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:33:41.000Z"
+			},
+			{
+				"id": 342918,
+				"employee_id": 11,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:53:04.000Z"
+			},
+			{
+				"id": 342920,
+				"employee_id": 11,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:54:54.000Z"
+			}
+		]
+	},
+	{
+		"id": 15678,
+		"name": "Christian Morkli",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342720,
+				"employee_id": 15678,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:11:13.000Z"
+			},
+			{
+				"id": 342721,
+				"employee_id": 15678,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:11:18.000Z"
+			},
+			{
+				"id": 342722,
+				"employee_id": 15678,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:11:25.000Z"
+			},
+			{
+				"id": 342831,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:42:01.000Z"
+			},
+			{
+				"id": 342887,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:22:59.000Z"
+			},
+			{
+				"id": 342914,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:50:34.000Z"
+			},
+			{
+				"id": 342923,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:03:13.000Z"
+			},
+			{
+				"id": 342924,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:06:55.000Z"
+			},
+			{
+				"id": 342925,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:08:24.000Z"
+			},
+			{
+				"id": 342949,
+				"employee_id": 15678,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:23:54.000Z"
+			}
+		]
+	},
+	{
+		"id": 216,
+		"name": "Frank Ashong-Katai",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5179,
+		"name": "Ernest Paapa Akyianu Junior",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 9647,
+		"name": "Jeffrey Kwamena Hooper",
+		"zone_id": 2,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 188,
+		"name": "Love Akua Eyiah Kyia",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342905,
+				"employee_id": 188,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:42:01.000Z"
+			},
+			{
+				"id": 342906,
+				"employee_id": 188,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:42:07.000Z"
+			}
+		]
+	},
+	{
+		"id": 206,
+		"name": "Stephen Duedu",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342839,
+				"employee_id": 206,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:44:55.000Z"
+			},
+			{
+				"id": 343045,
+				"employee_id": 206,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T12:05:06.000Z"
+			}
+		]
+	},
+	{
+		"id": 10737,
+		"name": "Mighty Mawuena Mensa",
+		"zone_id": 2,
+		"hub_attendance_logs": [
+			{
+				"id": 342828,
+				"employee_id": 10737,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:40:25.000Z"
+			}
+		]
+	},
+	{
+		"id": 14833,
+		"name": "Simon Nsalgnan Maborgnan",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 205,
+		"name": "Emmanuel Blankson- Amoah",
+		"zone_id": 1,
+		"hub_attendance_logs": [
+			{
+				"id": 342969,
+				"employee_id": 205,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:44:02.000Z"
+			}
+		]
+	},
+	{
+		"id": 150,
+		"name": "Samuel Addo",
+		"zone_id": 3,
+		"hub_attendance_logs": [
+			{
+				"id": 342719,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T06:11:00.000Z"
+			},
+			{
+				"id": 342734,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:26:33.000Z"
+			},
+			{
+				"id": 342741,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T07:37:07.000Z"
+			},
+			{
+				"id": 342826,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T08:39:56.000Z"
+			},
+			{
+				"id": 342876,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:12:32.000Z"
+			},
+			{
+				"id": 342954,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:31:02.000Z"
+			},
+			{
+				"id": 342959,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:31:02.000Z"
+			},
+			{
+				"id": 342962,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:33:25.000Z"
+			},
+			{
+				"id": 342979,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:57:02.000Z"
+			},
+			{
+				"id": 342982,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T10:59:00.000Z"
+			},
+			{
+				"id": 342989,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:08:41.000Z"
+			},
+			{
+				"id": 342992,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:10:42.000Z"
+			},
+			{
+				"id": 343000,
+				"employee_id": 150,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:16:34.000Z"
+			},
+			{
+				"id": 343028,
+				"employee_id": 150,
+				"type": "OUT",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T11:48:26.000Z"
+			}
+		]
+	},
+	{
+		"id": 8353,
+		"name": "Sarah Ewur",
+		"zone_id": 6,
+		"hub_attendance_logs": [
+			{
+				"id": 342896,
+				"employee_id": 8353,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:34:13.000Z"
+			},
+			{
+				"id": 342897,
+				"employee_id": 8353,
+				"type": "IN",
+				"location": "MAIN",
+				"timestamp": "2023-03-24T09:34:19.000Z"
+			}
+		]
+	},
+	{
+		"id": 15900,
+		"name": "BigBang 360",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 15901,
+		"name": "Credentials.ns+PPA bigbang360",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 17013,
+		"name": "Cynthia  D Dzoko",
+		"zone_id": null,
+		"hub_attendance_logs": []
+	},
+	{
+		"id": 5206,
+		"name": "Kezia Animwaa Ofori",
+		"zone_id": 3,
+		"hub_attendance_logs": []
+	}
+]
